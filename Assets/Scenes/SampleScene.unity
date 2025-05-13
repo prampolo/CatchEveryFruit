@@ -220,6 +220,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6465f0d971cbec44e8c6c3f51259f72c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  xMax: 10
+  serialPortName: COM1
+  baudRate: 9600
 --- !u!61 &31955296
 BoxCollider2D:
   m_ObjectHideFlags: 0
